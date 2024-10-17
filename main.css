@@ -1,37 +1,46 @@
+* {
+    background-color: turquoise
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 460px;
+    margin: 1em;
+    font-weight: bold;
+    text-decoration: underline dotted blue;
+    color: darkblue;
+    /* background-color: ; */
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 570px;
+    /* margin: ; */
+    /* font-weight: ; */
+    /* color: ; */
+    /* background-color: ; */
+}
+
+p em {
+    padding-left: 600px;
+    font-size: 15px;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: 'Courier New', Courier, monospace;;
+    /* font-size: ; */
+    /* padding: ; */
+    margin-top: 30px;
+    color: darkblue;
+    /* background-color: ; */
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url('https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png');
+    /* background-color:; */
+    height: 60px;
+    width: 60px;
 }
