@@ -28,3 +28,8 @@ width to your liking. Once saved you will see the App Academy logo at the bottom
 of your page.
 
 a/A logo: https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png
+
+
+
+
+
